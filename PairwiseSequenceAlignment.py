@@ -18,6 +18,10 @@ SQ2 = 'MALLVHFLPLLALLALWEPKPTQAFVKQHLCGPHLVEALYLVCGERGFFYTPKSRREVEDPQVEQLELGGSPG
 L1 = len(SQ1)
 L2 = len(SQ2)
 
+# alpha stores match value
+# beta stores mismatch value
+# omega stores gap penalty
+
 alpha = 2
 
 beta = -1
